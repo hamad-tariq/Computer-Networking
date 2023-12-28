@@ -11,18 +11,23 @@ The network is established on a hybrid topology. The network comprises three int
 IP configuration
 Each device in the network is statically assigned an IP address and enabled to connect with other devices within the network. The devices within a department will communicate with each other through the network switches. To transfer data among departments, the network has been configured to use PT-ROUTERS. These routers use Dynamic Routing, RIP to enable connections among multiple networks connected to them. The static IP configuration of each of the department is given below along with their default gateway.
 Admin
+
 ![Table2](https://github.com/hamad-tariq/Computer-Networking/assets/113939608/4d1c7ed8-dc05-4e60-a3be-f647ab4653b5)
  
 HR
+
 ![Table3](https://github.com/hamad-tariq/Computer-Networking/assets/113939608/2d74686c-0613-4fa4-af14-28831e5f8de2)
 
 Finance
+
 ![Table4](https://github.com/hamad-tariq/Computer-Networking/assets/113939608/338d9855-bef2-42cc-b561-512b77b02d76)
 
 CEO-Office
+
 ![Table5](https://github.com/hamad-tariq/Computer-Networking/assets/113939608/068b9d82-88a0-4ea2-a565-2dafe3fb174a)
 
 IT-Office
+
 ![Table6](https://github.com/hamad-tariq/Computer-Networking/assets/113939608/8a9a820b-da14-4aad-987d-a26bcf91f40e)
 
 Router Configuration
