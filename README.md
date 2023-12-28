@@ -34,27 +34,33 @@ Router Configuration
 The routers R1, R2, and R3 have been configured to allow traffic across department networks. The router R1 is connected to the Admin department Switch along with R2 and R3. The R2 serves to route the traffic from the Finance and HR department with the other departments through its connection with the routers R1 and R2. Similarly, R3 serves to route the traffic through the network directly connected to R3 and R1 along with the CEO Office and IT-Office. The router port configuration and network connectivity is given below.
 Router-1
 IP Conf.
+
 ![Table7](https://github.com/hamad-tariq/Computer-Networking/assets/113939608/c73ce11a-d9aa-4c60-82f1-bafce3ecc3ff)
 
 RIP Conf.
+
 ![Table8](https://github.com/hamad-tariq/Computer-Networking/assets/113939608/79c2743c-43f3-4a02-b4fd-8b50ef3f0540)
 
 ![Router 1 Conf](https://github.com/hamad-tariq/Computer-Networking/assets/113939608/5b7995eb-3696-4932-a379-359ec7871163)
 
 Router-2
 IP Conf.
+
 ![Table9](https://github.com/hamad-tariq/Computer-Networking/assets/113939608/a129cce9-df06-4269-af6b-21805dd55376)
 
 RIP Conf.
+
 ![Table10](https://github.com/hamad-tariq/Computer-Networking/assets/113939608/52db479e-7631-4bfb-bc0e-ca401f558b4e)
 
 ![Router 2 Conf](https://github.com/hamad-tariq/Computer-Networking/assets/113939608/d0f113cc-3e4c-432a-99b5-6ea718594560)
 
 Router-3
 IP Conf.
+
 ![Table11](https://github.com/hamad-tariq/Computer-Networking/assets/113939608/0cd2f87e-4a40-4184-8c44-741e5e8a70cc)
 
 RIP Conf.
+
 ![Table12](https://github.com/hamad-tariq/Computer-Networking/assets/113939608/753d7060-8da4-4789-bb70-950694f46969)
  
 ![Router 3 Conf](https://github.com/hamad-tariq/Computer-Networking/assets/113939608/6dd6a57b-2469-4fbf-80ae-e172966a4c73)
